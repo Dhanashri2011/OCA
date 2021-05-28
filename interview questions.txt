@@ -1,0 +1,55 @@
+[5/20, 1:22 PM] Eroal CG: 
+
+Features of java?
+Robust means actually wht?
+How is it platform independent?
+Wht is diff in java as compared to c?
+Pillars of oops?
+Detailed info about each pillar?
+Examples of polymorphism 
+Inheritance-Is -A  ,has-a
+Questions on examples of inheritance by imagining the code
+Wht is exception handling nd its explaination?
+Main interfaces in collection?
+Explain set list ?
+Wht is DQueue?
+Wht is spring?     
+
+
+
+[5/20, 1:22 PM] Eroal CG: 
+
+
+Why spring boot?
+When to use equals and hashcode?how it works?
+How to sort array list in descending order?
+How hashmap works?
+Component-scan
+Bean property
+Application context
+Autowire?
+What is stream?
+Why hibernate?
+String s= Laxmi how many obj are created?
+Method overloading n overriding
+Comparable comparator
+What is rest controller?
+If we want to store duplicates but display only unique which collection is used?
+Aop
+Oop concept with eg n how to achieve it?
+Custom exception
+Concurrent..exception
+Spring boot version?
+What is generics?
+Can we override default method in interface into class?
+Why/what is functional interface?
+How to write lambda expression?
+Which is better abstract class or interface?
+What returns compareTo()?
+Can we return anything other than 1 0 -1?
+
+
+* YouTube link on unofficial CG starred. 
+
+
+* Link of Tushar's projects on github
